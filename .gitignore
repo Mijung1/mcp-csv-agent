@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
 
 # Virtual environments
 .venv
+.env
